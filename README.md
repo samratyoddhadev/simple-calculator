@@ -46,4 +46,4 @@ simple-calculator/
 
 ## 👨‍💻 Author
 
-**Mayank Sahu**# simple-calculator
+**Mayank Sahu
